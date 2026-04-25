@@ -1,6 +1,8 @@
 # TecBoard
 
-> Uma aplicação interativa para gerenciar e organizar eventos por categorias/temas
+> Uma aplicação para gerenciar e organizar eventos de tecnologia.
+
+🔗 **Acesse a aplicação:** https://tecboard-coral.vercel.app/
 
 [![React](https://img.shields.io/badge/React-19.2-blue?logo=react)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-8.0-purple?logo=vite)](https://vitejs.dev)
@@ -43,10 +45,7 @@ A aplicação permite criar e visualizar eventos organizados por categorias como
 
 ## Créditos
 
-Este projeto foi desenvolvido acompanhando o curso **"React 19: JSX, componentes, form action e useState"** da Alura.
+Este projeto foi desenvolvido acompanhando o curso **"React 19: JSX, componentes, form action e useState"** da **Alura**.
 
 O código foi construído seguindo as aulas e orientações do curso, com fins educacionais.
 
----
-
-**Nota**: Este é um projeto educacional para aprendizado de React.
